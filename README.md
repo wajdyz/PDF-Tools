@@ -26,18 +26,18 @@ PDF Tools is a Python application that provides various functionalities for hand
 3. Install the required dependencies:
    pip install -r requirements.txt
 
-Usage
+## Usage
 Run the application:
 python main.py
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
-Author
+## Author
 Wajdy Alzayer
 
-Donate
+## Donate
 If you find this project useful, consider donating to support its development.
