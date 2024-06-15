@@ -19,3 +19,25 @@ PDF Tools is a Python application that provides various functionalities for hand
    ```bash
    git clone https://github.com/yourusername/pdf-tools.git
    cd pdf-tools
+2. Create a virtual environment and activate it:
+   python -m venv venv
+   source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+   
+3. Install the required dependencies:
+   pip install -r requirements.txt
+
+Usage
+Run the application:
+python main.py
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any changes.
+
+Author
+Wajdy Alzayer
+
+Donate
+If you find this project useful, consider donating to support its development.
