@@ -42,3 +42,5 @@ Wajdy Alzayer
 ## Donate
 If you find this project useful, consider [donating](https://paypal.me/WAlzayer) to support its development.
 
+## TODO
+Edit text direct, contributors needed
