@@ -40,6 +40,5 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 Wajdy Alzayer
 
 ## Donate
-https://paypal.me/WAlzayer
 If you find this project useful, consider [donating](https://paypal.me/WAlzayer) to support its development.
 
